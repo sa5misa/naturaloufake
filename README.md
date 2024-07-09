@@ -16,7 +16,7 @@ O ebook foi formatado profissionalmente para facilitar a leitura e a navegação
 Após a revisão final, o ebook foi publicado em plataformas digitais e promovido para desenvolvedores e entusiastas de tecnologia em todo o mundo.
 
 ## 🚀 Resultados
-[PODE BAIXAR O E-BOOK AQUI](https://drive.google.com/file/d/1SX_vMFrPEyJmP6K3nOjAPodB7r2psSsb/view?usp=sharing)
+resultado em anexo
 
 ## 💭 Reflexão (Opcional)
 Criar um projeto com a utilização de Inteligência Artificial (IA) apresenta um conjunto único de desafios que exigem uma combinação de habilidades técnicas, compreensão profunda de dados, e uma abordagem estratégica para garantir o sucesso.
